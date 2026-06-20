@@ -86,14 +86,12 @@ Di luar itu, saya juga senang membangun hal-hal kecil dengan Python dan web deve
 
 ### ‎ ‎ featured projects
 
-<!-- ganti value "repo=" di bawah dengan nama repository asli kamu setelah di-pin di GitHub profile -->
-
 <p align="center">
-  <a href="https://github.com/muhfarhanazmy-svg/ctf-writeups">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhfarhanazmy-svg&repo=ctf-writeups&bg_color=1b1714&title_color=d8b384&text_color=c9bfae&icon_color=8c7851&border_color=3a322c" />
+  <a href="https://github.com/muhfarhanazmy-svg/BASIS-DATA-_KOSNEAR">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhfarhanazmy-svg&repo=BASIS-DATA-_KOSNEA&bg_color=1b1714&title_color=d8b384&text_color=c9bfae&icon_color=8c7851&border_color=3a322c" />
   </a>
-  <a href="https://github.com/muhfarhanazmy-svg/cyber-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhfarhanazmy-svg&repo=cyber-toolkit&bg_color=1b1714&title_color=d8b384&text_color=c9bfae&icon_color=8c7851&border_color=3a322c" />
+  <a href="https://github.com/muhfarhanazmy-svg/binary-hexa-dkk">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhfarhanazmy-svg&repo=binary-hexa-dkk&bg_color=1b1714&title_color=d8b384&text_color=c9bfae&icon_color=8c7851&border_color=3a322c" />
   </a>
 </p>
 

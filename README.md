@@ -88,7 +88,7 @@ Di luar itu, saya juga senang membangun hal-hal kecil dengan Python dan web deve
 
 <p align="center">
   <a href="https://github.com/muhfarhanazmy-svg/BASIS-DATA-_KOSNEAR">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhfarhanazmy-svg&repo=BASIS-DATA-_KOSNEA&bg_color=1b1714&title_color=d8b384&text_color=c9bfae&icon_color=8c7851&border_color=3a322c" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhfarhanazmy-svg&repo=BASIS-DATA-_KOSNEAR&bg_color=1b1714&title_color=d8b384&text_color=c9bfae&icon_color=8c7851&border_color=3a322c" />
   </a>
   <a href="https://github.com/muhfarhanazmy-svg/binary-hexa-dkk">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhfarhanazmy-svg&repo=binary-hexa-dkk&bg_color=1b1714&title_color=d8b384&text_color=c9bfae&icon_color=8c7851&border_color=3a322c" />

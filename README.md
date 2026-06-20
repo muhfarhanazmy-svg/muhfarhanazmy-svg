@@ -138,5 +138,9 @@ At the end of the day, I’m just trying to understand systems properly, not jus
 <br/><br/>
 
 <div align="center">
-  <sub><i>slow progress is still progress — masih belajar, satu writeup pada satu waktu.</i></sub>
+
+<sub><i>still in progress.</i></sub>
+<br/>
+<sub><i>still learning.</i></sub>
+
 </div>

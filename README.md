@@ -21,28 +21,35 @@
 
 ### ‎ ‎ about
 
-Saya seorang mahasiswa Informatika yang menghabiskan cukup banyak waktu menjelajahi sisi praktis dari keamanan siber — biasanya lewat *Capture The Flag*. Sebagian besar proses belajar saya terjadi lewat eksperimen kecil: membongkar binary, membaca traffic, mencoba memecahkan cipher yang terlihat sederhana tapi ternyata tidak.
+### ‎ ‎ about
 
-Area yang paling sering saya gali:
+I'm an Informatics Engineering student who’s really into cybersecurity and figuring out how systems work behind the scenes.
 
-- Web Security
-- Cryptography
-- Digital Forensics
-- Reverse Engineering
-- Network Security
+Most of my time goes into CTFs and security labs. I like learning by breaking things, testing how they behave, and slowly understanding what’s going on under the hood.
 
-Di luar itu, saya juga senang membangun hal-hal kecil dengan Python dan web development, sambil terus membiasakan diri dengan lingkungan Linux sebagai tempat kerja utama.
+Stuff I’m currently exploring:
+
+- Web Security  
+- Cryptography  
+- Reverse Engineering  
+- Digital Forensics  
+- Network Security  
+- Linux environments  
+
+Outside of security, I mess around with small Python projects for automation and experiments. Sometimes I also dip into AI and data science just to see how other parts of tech connect.
+
+At the end of the day, I’m just trying to understand systems properly, not just use them.
 
 <br/>
 
 ### ‎ ‎ currently
 
-- ‎ menyelesaikan tantangan di PicoCTF, TryHackMe, dan Hack The Box
-- ‎ memperdalam web exploitation & cryptography
-- ‎ belajar digital forensics dan reverse engineering
-- ‎ membangun beberapa proyek Python kecil
-- ‎ mengeksplorasi AI & data science di waktu luang
-- ‎ membiasakan diri dengan Linux environment & keamanan dasarnya
+- solving challenges on PicoCTF, TryHackMe, and Hack The Box  
+- diving deeper into web exploitation & cryptography  
+- learning digital forensics and reverse engineering  
+- building small Python projects  
+- exploring AI & data science in my free time  
+- getting more comfortable with Linux and its security basics  
 
 <br/>
 
@@ -112,7 +119,6 @@ Di luar itu, saya juga senang membangun hal-hal kecil dengan Python dan web deve
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhfarhanazmy-svg&bg_color=1b1714&color=8c7851&line=d8b384&point=c9bfae&area_color=8c7851&title_color=d8b384&area=true&hide_border=true" width="90%" />
 </p>
 
-<!-- contribution snake membutuhkan satu kali setup GitHub Action di repo muhfarhanazmy-svg/muhfarhanazmy-svg agar file svg ini ter-generate otomatis (action: Platane/snk) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/muhfarhanazmy-svg/muhfarhanazmy-svg/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </p>

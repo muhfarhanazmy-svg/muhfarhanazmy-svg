@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=4500&pause=1200&color=D8B384&center=true&vCenter=true&width=600&height=60&lines=hi%2C+I'm+Farhan+%F0%9F%8C%99;cyber+security+%26+CTF+enthusiast;cryptography+%2B+AI+explorer;currently+lost+in+linux+%26+coffee" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=4500&pause=1200&color=D8B384&center=true&vCenter=true&width=600&height=60&lines=hi%2C+I'm+Farhan Azmy+;cyber+security+%26+CTF+enthusiast;cryptography+%2B+AI+explorer;currently+lost+in+linux+%26+coffee" alt="Typing SVG" />
 
 <br/>
 
@@ -51,7 +51,7 @@ At the end of the day, I’m just trying to understand systems properly, not jus
 
 <br/>
 
-### ‎ ‎ tech stack
+### ‎ ‎ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,php,mysql,git,github,linux,vscode,flask&theme=dark" />
@@ -63,7 +63,7 @@ At the end of the day, I’m just trying to understand systems properly, not jus
 <tr>
 <td valign="top" width="50%">
 
-**security focus**
+**Security Focus**
 
 - Web Security
 - Cryptography
@@ -75,7 +75,7 @@ At the end of the day, I’m just trying to understand systems properly, not jus
 </td>
 <td valign="top" width="50%">
 
-**ctf platforms**
+**CTF Platforms**
 
 - PicoCTF
 - TryHackMe
@@ -89,7 +89,7 @@ At the end of the day, I’m just trying to understand systems properly, not jus
 
 <br/>
 
-### ‎ ‎ featured projects
+### ‎ ‎ Featured Projects
 
 <p align="center">
   <a href="https://github.com/muhfarhanazmy-svg/BASIS-DATA-_KOSNEAR">
@@ -102,7 +102,7 @@ At the end of the day, I’m just trying to understand systems properly, not jus
 
 <br/>
 
-### ‎ ‎ stats
+### ‎ ‎ Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhfarhanazmy-svg&show_icons=true&hide_border=true&bg_color=1b1714&title_color=d8b384&text_color=c9bfae&icon_color=8c7851&ring_color=8c7851" width="48%" />
@@ -123,7 +123,7 @@ At the end of the day, I’m just trying to understand systems properly, not jus
 
 <br/>
 
-### ‎ ‎ connect
+### ‎ ‎ Connect
 
 <p align="center">
   <a href="mailto:muhfarhanazmy@gmail.com"><img src="https://img.shields.io/badge/-email-1b1714?style=flat-square&logo=gmail&logoColor=c9bfae&labelColor=1b1714&color=1b1714" /></a>

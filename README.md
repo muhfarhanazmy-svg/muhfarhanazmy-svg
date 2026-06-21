@@ -21,8 +21,6 @@
 
 ### ‎ ‎ about
 
-### ‎ ‎ about
-
 I'm an Informatics Engineering student who’s really into cybersecurity and figuring out how systems work behind the scenes.
 
 Most of my time goes into CTFs and security labs. I like learning by breaking things, testing how they behave, and slowly understanding what’s going on under the hood.

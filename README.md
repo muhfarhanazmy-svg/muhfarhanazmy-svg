@@ -19,7 +19,7 @@
 
 <br/>
 
-### ‎ ‎ about
+### ‎ ‎ About
 
 I'm an Informatics Engineering student who’s really into cybersecurity and figuring out how systems work behind the scenes.
 
@@ -40,7 +40,7 @@ At the end of the day, I’m just trying to understand systems properly, not jus
 
 <br/>
 
-### ‎ ‎ currently
+### ‎ ‎ Currently
 
 - solving challenges on PicoCTF, TryHackMe, and Hack The Box  
 - diving deeper into web exploitation & cryptography  
